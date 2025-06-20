@@ -4,7 +4,7 @@ imbalanced-learn==0.13.0
 joblib==1.4.2
 matplotlib==3.10.3
 nltk==3.9.1
-numpy==2.3.0
+numpy==2.0.2
 pandas==2.3.0
 protobuf==6.31.1
 python_docx==1.2.0
